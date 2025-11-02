@@ -1,0 +1,20 @@
+aeroplane
+bicycle
+bird
+ship
+bottle
+bus
+car
+cat
+chair
+cow
+table
+dog
+horse
+motorbike
+person in shirt jeans dress sweater skirt jacket
+pottedplant
+sheep
+sofa
+train
+television monitor screen
